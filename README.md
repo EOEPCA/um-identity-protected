@@ -1,6 +1,6 @@
-# UM Identity Public Service
+# UM Unprotected Service
  
-This service exposes public endpoints to be used as an example to demonstrate how Gatekeeper and Keycloak can be used to authorize users' access.
+This service exposes unprotected endpoints to be used as an example to demonstrate how Gatekeeper and Keycloak can be used to protect this service and authorize users' access.
 
 **Prerequisites:** 
 * [Docker](https://docs.docker.com/get-docker/)
